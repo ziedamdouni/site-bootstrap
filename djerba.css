@@ -1,0 +1,14 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
+body{
+    background-color: #666;
+    font-family: 'Comic Neue', cursive;
+}
+.navbar{
+    
+    background-color: rgba(32, 28, 27, 0.89)de;
+}
+.jumbotron jumbotron-fluid{
+    width: 80%;
+}
